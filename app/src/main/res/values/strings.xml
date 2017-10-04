@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectShowcase</string>
+    
+    <string name="error_internet">No network connection.</string>
+    <string name="error_server">Error connecting to the server.</string>
+
+    <!-- Login -->
+    <string name="login_title">Login</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_invalid_credentials">Please enter your email and password.</string>
+</resources>
